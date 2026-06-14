@@ -1,0 +1,7 @@
+streamlit
+langchain-groq
+langchain-core
+langgraph
+chromadb
+markdown
+duckduckgo-search
