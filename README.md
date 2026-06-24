@@ -128,4 +128,4 @@ Aria:  "✅ Task added: submit assignment by Friday"
 ## 🤝 Connect
 
 Built by **Huraira Maqbool** — AI Engineer  
-📧 [hurairac37@gmail.com](mailto:hurairac37@gmail.com) · 💼 [Fiverr](https://www.fiverr.com/users/huraira_maqbool/seller_dashboard) · 🔗 [LinkedIn](linkedin.com/in/huraira-maqbool-b696a5277)
+📧 [hurairac37@gmail.com](mailto:hurairac37@gmail.com) · 💼 [Fiverr](https://www.fiverr.com/huraira_maqbool) · 🔗 [LinkedIn](https://www.linkedin.com/in/huraira-maqbool-b696a5277/)
