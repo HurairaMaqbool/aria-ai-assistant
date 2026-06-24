@@ -6,3 +6,4 @@ chromadb
 markdown
 duckduckgo-search
 pypdf>=4.0.0
+python-docx>=1.1.0
