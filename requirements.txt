@@ -1,4 +1,5 @@
 streamlit
+langchain>=0.3.0
 langchain-groq
 langchain-core
 langgraph
