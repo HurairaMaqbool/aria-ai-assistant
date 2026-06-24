@@ -5,3 +5,4 @@ langgraph
 chromadb
 markdown
 duckduckgo-search
+pypdf
