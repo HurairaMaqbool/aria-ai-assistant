@@ -14,10 +14,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
 [![Tests](https://img.shields.io/badge/Tests-43_passed-22c55e?style=flat-square)](tests/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://aria-ai-assistant-axw5b3axeeyofyshudo2qe.streamlit.app/?uid=user_d58a7699)
 
 <br/>
 
-[📧 Email](mailto:hurairac37@gmail.com) &nbsp;·&nbsp; [💼 Fiverr](https://www.fiverr.com/huraira_maqbool) &nbsp;·&nbsp; [🔗 LinkedIn](https://www.linkedin.com/in/huraira-maqbool-b696a5277/)
+[🚀 Live Demo](https://aria-ai-assistant-axw5b3axeeyofyshudo2qe.streamlit.app/?uid=user_d58a7699) &nbsp;·&nbsp; [📧 Email](mailto:hurairac37@gmail.com) &nbsp;·&nbsp; [💼 Fiverr](https://www.fiverr.com/huraira_maqbool) &nbsp;·&nbsp; [🔗 LinkedIn](https://www.linkedin.com/in/huraira-maqbool-b696a5277/)
 
 </div>
 
